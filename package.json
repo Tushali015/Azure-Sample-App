@@ -1,0 +1,14 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "My Node.js App",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "eslint ."
+  }
+}
